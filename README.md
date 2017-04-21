@@ -14,3 +14,4 @@ pip install cocos2d
 pip install pyaudio
 ```
 
+这是从别人那里copy的python版本，准备有时间了用java改一个出来O(∩_∩)O哈哈~
